@@ -9,4 +9,15 @@ Experiment coded with Rust to learn the language.
 
 If you want to learn how I did set the project you can see the detail [here](./docs/Project_Steps.md) .
 
+### redis-server
+
+* install
+```ssh
+$ brew install redis
+```
+* start server
+```ssh
+$ redis-server
+```
+
 

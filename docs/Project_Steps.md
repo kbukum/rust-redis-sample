@@ -75,3 +75,10 @@ cargo build
     ]
 }
 ```
+
+#### add redis-rs library to the dependency.
+
+```yaml
+[dependencies]
+redis = "0.5.3"
+```
