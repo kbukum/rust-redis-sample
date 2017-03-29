@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug",
+            "type": "lldb-mi",
+            "request": "launch",
+            "target": "target/debug/rust_redist_sample",
+            "cwd": "${workspaceRoot}",
+            "lldbmipath": "/Applications/Xcode.app/Contents/Developer/usr/bin/lldb-mi"
+        }
+    ]
+}

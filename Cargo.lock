@@ -1,0 +1,4 @@
+[root]
+name = "rust-redist-sample"
+version = "0.1.0"
+
