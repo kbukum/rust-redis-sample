@@ -1,7 +1,0 @@
-{
-  "rust.cargoHomePath": "/Users/kamilbukum/.cargo",
-// Specifies path to Racer binary if it's not in PATH
-  "rust.racerPath": "/Users/kamilbukum/.cargo/bin/racer",
-    // Specifies path to /src directory of local copy of Rust sources
-  "rust.rustLangSrcPath": "/Users/kamilbukum/rust/src"
-}
